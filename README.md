@@ -68,8 +68,8 @@ This dashboard is not just informative, it's **actionable** — providing value 
 
 I’m **Asad Ali**, a Data Analyst by profession and problem-solver by passion. Through **MYDATZ Analytics**, I turn raw data into valuable insights that matter — in weather, business, or beyond.
 
-- 🔗 [LinkedIn Profile]((https://www.linkedin.com/in/asad-ali-80110027a/))
-- 🌐 [Portfolio Website]((https://datz-asadanalyst.github.io/))
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/asad-ali-80110027a/)
+- 🌐 [Portfolio Website](https://datz-asadanalyst.github.io/)
 - 📧 Contact: asadalich56@gmail.com
 
 ---
